@@ -1,15 +1,15 @@
 {
-    "name": "angular-bootstrap-nav-tree",
+    "name": "angular-bootstrap-nav-tree_custom",
     "version": "0.2.0",
     "description":"A Tree Control for AngularJS, using CSS animation and Bootstrap style",
-    "main":["dist/abn_tree_directive.js","dist/abn_tree.css"],
+    "main":["dist/custom_tree_directive.js","dist/custom_tree.css"],
     "licence":"MIT",
     "keywords":["angularjs","bootstrap","tree","widget"],
     "authors":["Nick Perkins"],
-    "homepage"  :"https://github.com/nickperkinslondon/angular-bootstrap-nav-tree",
+    "homepage"  :"https://github.com/wk201612/angular-bootstrap-nav-tree_custom",
     "repository":{
         "type":"git",
-        "url":"git://github.com/nickperkinslondon/angular-bootstrap-nav-tree"
+        "url":"git://github.com/wk201612/angular-bootstrap-nav-tree_custom"
     },
     "ignore": [
         "src",
